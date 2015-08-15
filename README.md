@@ -45,6 +45,12 @@ For command line help, visit our wiki page on Neat’s [command line interface](
   neat install
   ```
 
+  **Pro Tip:** You can target installation into a specific directory using the `path` flag:
+
+  ```bash
+  neat install --path my/custom/path/
+  ```
+
 4. Import Neat in your stylesheet:
 
   ```scss
